@@ -57,7 +57,7 @@ The steps used to clean the dataset in preparation for Analysis and Visualizatio
  ![](adidas_visualization.png)
 
 **You Can interact with the project here**
-- ![click here](Adiddas_sales_analysis.xlsm)
+- [click here](Adiddas_sales_analysis.xlsm)
 
 **_Please note_** : This is a **MACRO ENABLES WORKBOOK** to be able to interact with the macro worksheet without interferance of blocked macro
 1. check the **_Unblock_** in security in properties setting
@@ -66,7 +66,7 @@ The steps used to clean the dataset in preparation for Analysis and Visualizatio
 _if error of macro presist_ close and reopen the workbook and run the macro on the clicked **_clear filter_** button
 
 ### Recomendation
-- Optimize store layout strategy which involue proper organization of insstore FootWare section for customer to have easy accsee to engage in what to buy especially for store with the lowest sales.
+- Optimize Store Layout Strategy which involue proper organization of instore FootWare section for customer to have easy access to engage in what to buy especially for store with the lowest sales.
 - Effective Marketing Strategy Campaign and sesonal promotion should be orchestrated for state having poor sales.
 - Offer a wide variety of FootWare option inclding tredy style, seasonal collection and inclusive sizes to cater for large audience.
 - Use Product Bunding Strategy and Discount to increase Revenue in online sales, and also include comprehensive information about the product to help customer make informed decision.
