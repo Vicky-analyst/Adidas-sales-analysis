@@ -56,5 +56,5 @@ The steps used to clean the dataset in preparation for Analysis and Visualizatio
 
  ![](adidas_visualization.png)
 
-**You Cn interact with the project here**
-- ![](Adiddas_sales_analysis.xlsm)
+**You Can interact with the project here**
+- ![click here](Adiddas_sales_analysis.xlsm)
