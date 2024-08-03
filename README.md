@@ -54,7 +54,7 @@ The steps used to clean the dataset in preparation for Analysis and Visualizatio
 - Adidas Sales generated a Total Revenue of **$889.9M** in all Transactions with a major massive increased revenue of **$717.8M** in **2021**, which is 79.8% of total Revenue in Adidas Sales.
 - Also, Adidas sales generated a Total Profit of **$332.1M** in all Transaction having major profit generated in **2021** a total of **$268.8M**, which is 80.1% of total Profit in Adidas Sales.
 
- ![](adidas_pic1.png)
+ ![](adidas_visualization.png)
 
 **You Cn interact with the project here**
 - ![](Adiddas_sales_analysis.xlsm)
